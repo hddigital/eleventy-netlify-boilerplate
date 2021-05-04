@@ -20,14 +20,13 @@ summary: >-
 
   complementar n° 116 de 31 de Julho de 2003.
 tags:
-  - código-tributario
-  - lei-municipal
+  - codigos
+  - leis
   - impostos
   - "2006"
-  - câmara-municipal
+  - camara
   - tributos
   - iptu
-  - ""
 ---
 <iframe src="http://docs.google.com/gview?url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
